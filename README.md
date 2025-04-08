@@ -1,10 +1,11 @@
-Dijkstra-Travel-Planner
+ChandigarhUniversity-Travel-Planner
 =======================
 
-Sanjay Nair
-University of Florida: Spring 2013
-Department of Computer Science and Engineering
-COP3530: Data Structures and Algorithms
-Project 4
+Jatin Garg
+Anish Kumar
+Armaan
+Chandigarh University
+University Institute of Computing (UIC)
+Data Structures and Algorithms
 
-A travel planner that calculates the optimal travel route by plane or bus based on Dijkstra's famous graph algorithm
+A travel planner that calculates the optimal travel route by plane or bus based on famous graph algorithm
